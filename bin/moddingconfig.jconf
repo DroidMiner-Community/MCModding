@@ -1,0 +1,5 @@
+MinecraftModdingAPIKit:com.minecraft.modding.apis.modding.kits.MinecraftModdingAPIKit[1.0.0]/unknown
+JavaDevelopementKit:java.jdk[21.0.1]/latest
+JavaRuntimeEnviorement:java.jre[25.0.3]/latest
+AppRuntimeEnviorement:app.jre[1.0.0]/applatest
+MinecraftManifest:file["manifest.xml"]/xml
