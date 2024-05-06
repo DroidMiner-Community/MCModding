@@ -15,7 +15,7 @@ public class Sandbox {
          *   @param ImageLoader{Init$class<ImageLoaderInitializationClass>}
          */ 
 
-        private class ImageLoaderInitializationClass {
+     private class ImageLoaderInitializationClass {
 	    @InitClass
             Init.AutoDebug(enable(true));
             Init.RunStacktrace(enable(true));
@@ -31,7 +31,7 @@ public class Sandbox {
                return 1;
                continue;
             }
-        }
+       }
        ImageLoaderInitializationClass();
        return 1;
     }
